@@ -18,7 +18,7 @@
 ## Structure
     2021spring_01class_team1
     ├ docs
-    │ └ Proposal_Team1.pdf
+    │ └ proposal_team1.pdf
     ├ meetings
     | └ meetings docs
     └ README.md
